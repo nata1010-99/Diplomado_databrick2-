@@ -44,4 +44,3 @@ Los datos se procesarán y se cargarán en un entorno de **Databricks** para fac
 
 - Analizar la relación entre educación y contratación estatal en distintas regiones de Colombia.
 - Identificar patrones, tendencias y posibles zonas de mejora en la inversión pública y cobertura educativa.
-
